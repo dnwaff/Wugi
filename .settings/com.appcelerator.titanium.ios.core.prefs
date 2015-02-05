@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=wugi
+iosLaunchConfigurationAttributes/appid=com.wugi.wugi
+iosLaunchConfigurationAttributes/certificate=Jamal Adams (99NMZ255CL)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=8.1
+iosLaunchConfigurationAttributes/uuid=40ee7fdb-5a95-4dfa-9bd9-b04888ece6e2
+provisioning_profiles/development/0256796E-371B-4FBD-BEA2-4350164D04BA/appid=*
+provisioning_profiles/development/0256796E-371B-4FBD-BEA2-4350164D04BA/name=G Dev
+provisioning_profiles/development/0256796E-371B-4FBD-BEA2-4350164D04BA/uuid=0256796E-371B-4FBD-BEA2-4350164D04BA
